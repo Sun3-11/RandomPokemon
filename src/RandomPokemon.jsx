@@ -7,7 +7,7 @@ import pokemonI from './assets/pokemon.png'
 function RandomPokemon(){
 
     const handleButtonClick = () => {
-        // window.location.reload();
+        window.location.reload();
         
 
     };
